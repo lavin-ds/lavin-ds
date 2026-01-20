@@ -86,18 +86,6 @@ I build resilient, scalable backend systems and infrastructure. My work focuses 
 ![Honeycomb](https://img.shields.io/badge/Honeycomb-FBB03B?style=for-the-badge&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavin-ds&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lavin-ds&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavin-ds&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
-
-</div>
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavins)
