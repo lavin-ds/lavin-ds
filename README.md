@@ -93,9 +93,3 @@ I build resilient, scalable backend systems and infrastructure. My work focuses 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=flat-square)
-
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler*
-
-</div>
