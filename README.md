@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
 #### 🏗️ What I Do
 
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Building+Systems+at+Scale;Cloud+Architecture+%26+Infrastructure)](https://git.io/typing-svg)
-
-</div>
-
 I build resilient, scalable backend systems and infrastructure. My work focuses on designing distributed systems, implementing robust authentication mechanisms, and architecting cloud-native applications that handle millions of requests.
 #### 🎯 Core Competencies
 
