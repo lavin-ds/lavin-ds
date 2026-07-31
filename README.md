@@ -1,53 +1,9 @@
 <!--
 **lavin-ds/lavin-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi, I'm Lavin 👋
 
-#### 🏗️ What I Do
-
-I build resilient, scalable backend systems and infrastructure. My work focuses on designing distributed systems, implementing robust authentication mechanisms, and architecting cloud-native applications that handle millions of requests.
-#### 🎯 Core Competencies
-
-##### 🔐 Security & Identity
-- OAuth 2.0 / OpenID Connect implementation
-- JWT & session management at scale
-- RBAC/ABAC authorization models
-- API gateway security patterns
-- Zero-trust architecture
-- Secrets management (Vault, KMS)
-
-##### ⚡ Performance & Scale
-- Horizontal scaling strategies
-- Load balancing & auto-scaling
-- Caching layers (Redis, CDN)
-- Database sharding & replication
-- Async processing & event-driven design
-- Rate limiting & circuit breakers
-
-##### ☁️ Cloud Infrastructure
-- Multi-cloud architecture
-- Serverless computing (Lambda, Cloud Functions)
-- Container orchestration (K8s, ECS)
-- Infrastructure as Code (Terraform)
-
-##### 🔄 DevOps & Reliability
-- Blue-green & canary deployments
-- Monitoring & alerting
-- Log aggregation & analysis
-- SLO/SLI definition & tracking
-- Incident response & post-mortems
+Building resilient, scalable backend systems and infrastructure. My work focuses on designing distributed systems, implementing robust authentication mechanisms, and architecting cloud-native applications that handle millions of requests.
 
 #### 💻 Tech Stack
 
